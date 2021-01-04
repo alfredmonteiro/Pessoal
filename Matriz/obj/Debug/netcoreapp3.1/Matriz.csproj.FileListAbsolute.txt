@@ -1,0 +1,13 @@
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\obj\Debug\netcoreapp3.1\Matriz.csprojAssemblyReference.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Matriz\obj\Debug\netcoreapp3.1\Matriz.genruntimeconfig.cache

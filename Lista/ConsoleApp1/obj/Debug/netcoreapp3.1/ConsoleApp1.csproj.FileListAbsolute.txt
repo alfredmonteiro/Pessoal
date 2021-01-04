@@ -1,0 +1,13 @@
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado 2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

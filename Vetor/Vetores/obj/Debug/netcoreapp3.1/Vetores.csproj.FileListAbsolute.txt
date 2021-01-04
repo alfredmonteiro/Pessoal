@@ -1,0 +1,13 @@
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Vetor\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.exe
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.deps.json
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.runtimeconfig.json
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.runtimeconfig.dev.json
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.dll
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\bin\Debug\netcoreapp3.1\Conta Bancaria.pdb
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.csprojAssemblyReference.cache
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.AssemblyInfoInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.AssemblyInfo.cs
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.csproj.CoreCompileInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.dll
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.pdb
+E:\#Estudos - Programação\C# - UDEMY\Conta Bancária\Conta Bancaria\obj\Debug\netcoreapp3.1\Conta Bancaria.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\bin\Debug\netcoreapp3.1\Aprendizado.exe
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\bin\Debug\netcoreapp3.1\Aprendizado.deps.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\bin\Debug\netcoreapp3.1\Aprendizado.runtimeconfig.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\bin\Debug\netcoreapp3.1\Aprendizado.runtimeconfig.dev.json
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\bin\Debug\netcoreapp3.1\Aprendizado.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\bin\Debug\netcoreapp3.1\Aprendizado.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\obj\Debug\netcoreapp3.1\Aprendizado.csprojAssemblyReference.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\obj\Debug\netcoreapp3.1\Aprendizado.AssemblyInfoInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\obj\Debug\netcoreapp3.1\Aprendizado.AssemblyInfo.cs
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\obj\Debug\netcoreapp3.1\Aprendizado.csproj.CoreCompileInputs.cache
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\obj\Debug\netcoreapp3.1\Aprendizado.dll
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\obj\Debug\netcoreapp3.1\Aprendizado.pdb
+E:\#Estudos - Programação\C# - UDEMY\Aprendizado\Aprendizado\obj\Debug\netcoreapp3.1\Aprendizado.genruntimeconfig.cache
