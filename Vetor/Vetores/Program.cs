@@ -5,6 +5,8 @@ namespace Course
     {
         static void Main(string[] args)
         {
+			\\Teste de versão
+			
             Estudante[] vect = new Estudante[10];
             Console.Write("Quantos quartos serão alugados? ");
             int n = int.Parse(Console.ReadLine());
